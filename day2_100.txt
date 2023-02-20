@@ -1,0 +1,15 @@
+MyName= input("What is your name")
+MyName = ''
+print("Wow that's a lovely name")
+FavFood = input("What is your favourite food")
+FavFood = ''
+print("Must be delicous right?")
+Age = input("How old are you")
+Age = ''
+if age >= 40
+ print("Wow that's pretty olold
+else; 
+ print("Okayyyyy")
+FavMusic = input("What is your best music genre?")
+FavMusic = ''
+print("Wow, you are awesome and it's gregreat knowing you")
