@@ -1,0 +1,2 @@
+print("Hello, my name is Afukam and i will be pushing a code to my github everyday for 100 days")
+print("Feel free to join the challange if you want to")
