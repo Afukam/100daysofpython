@@ -1,0 +1,9 @@
+foodPrep = input("What are we making today")
+foodPrep = ''
+plantA = input("What plants do we need to add to our food?")
+plantA = ''
+proteinB = input("What proteins do we need to add?)
+proteinB = ''
+stepsC = input("What are the steps involved?")
+stepsC = ''
+print("To make", foodPrep, "we will need" , plantA, "and", proteinB, "but don't forget tto follow", stepsC, )
