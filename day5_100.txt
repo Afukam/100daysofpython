@@ -1,0 +1,18 @@
+print("Hello, thank you for being here this is a short test, have fun")
+myName= input("What is your name?")
+if myName == "Afukam":
+ print("Oh, it's  you AAfukam")
+ print("Welcome back")
+else:
+ print("Okay, new faces that's great")
+favMovie = input("What is your favourite movie?")
+if favMovie == "It's so hars to choose there are so many good movies":
+ print("I know right, the list is just enendless
+else: 
+ print("Wow must bbe a good movie")
+BestTolstoyQuote = input("What is your best quote by Leo Tolstoy?")
+if BestTolstoyQuote == "He felt now that he was not simply close to her, but that he didn't know where he ended and where she began":
+ print("Everytime I hear that quote, i get butterflies in my belly")
+else:
+ print("That's such a nice quote")
+print("We have come to the end of this short test", myName, "It's lovellovely knowing a bit about you ")
