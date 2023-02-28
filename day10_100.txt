@@ -40,7 +40,7 @@ second_number = int(input('Type the second number: ')) ;\
 print("The modulo is: ", first_number % second_number)
 
 first_number = int(input('Type the first number: ')) ;\
-print("The square is: ", first_number **)
+print("The square is: ", first_number ** 2)
 
 
 
