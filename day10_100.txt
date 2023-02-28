@@ -1,0 +1,25 @@
+if first_number = int(input('Type the first number: ')) ;\
+second_number = int(input('Type the second number: ')) ;\
+print("The sum is: ", first_number + second_number)
+
+if first_number = int(input('Type the first number: ')) ;\
+second_number = int(input('Type the second number: ')) ;\
+print("The product is: ", first_number * second_number)
+
+if first_number = int(input('Type the first number: ')) ;\
+second_number = int(input('Type the second number: ')) ;\
+print("The difference  is: ", first_number - second_number)
+
+if first_number = int(input('Type the first number: ')) ;\
+second_number = int(input('Type the second number: ')) ;\
+print("The division  is: ", first_number / second_number)
+
+if first_number = int(input('Type the first number: ')) ;\
+second_number = int(input('Type the second number: ')) ;\
+print("The modulo is: ", first_number % second_number)
+
+if first_number = int(input('Type the first number: ')) ;\
+print("The square is: ", first_number **)
+
+
+
